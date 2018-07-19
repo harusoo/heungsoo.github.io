@@ -149,13 +149,15 @@ ul.bus-list {
   list-style: none;
   margin: 0 auto;
   top: 158px;
+  width: 375px;
+  height: 541.4px;
+  overflow-y: auto;
 }
 
 .destination {
   display:inline-block;
   background-color: #F9F8F8;
   margin-bottom: 0.5%;
-  margin: solid #B1B1B1;
   padding: 7% 0 7% 0;
   width: 375px;
   height: 150px;
