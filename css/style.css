@@ -151,6 +151,7 @@ ul.bus-list {
   top: 158px;
   width: 375px;
   height: 541.4px;
+  overflow-x: hidden;
   overflow-y: auto;
 }
 
